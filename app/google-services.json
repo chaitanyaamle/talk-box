@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381799210727",
+    "project_id": "talkbox-chat-app",
+    "storage_bucket": "talkbox-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381799210727:android:3d70e20961e039807bcc42",
+        "android_client_info": {
+          "package_name": "com.chat_app.talkbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381799210727-ivfr9uqa5usj7jd4hk4qjvrae87bh6d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat_app.talkbox",
+            "certificate_hash": "86833a60e41c2ac9272461d8e759cc0dc48387cd"
+          }
+        },
+        {
+          "client_id": "381799210727-oi8a2cc8uacokevm3ertr5ufcnhmomre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqR086PNydMmFeLk0-gxPw9Qj1SJ0a9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381799210727-oi8a2cc8uacokevm3ertr5ufcnhmomre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
